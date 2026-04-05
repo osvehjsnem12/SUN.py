@@ -9,6 +9,8 @@ zjsosbsjsnsjj_vhjeksozn_bskwbwosbsisj_kwjwpal_ekwkwmspslskksmdmdmdmdmXxXxXxXxXxX
 "\u003d","\u003d\u003d","\u002b","\u002d","\u002a","\u002f","\u007b","\u007d","\u0028","\u0029","\u003b"
 ]
 
+ksodnsodnskdj=2992929; ndodndodbsosnsosmsnzjzjsn=296373929292929;idhidbidbidbidnodnodbodj=0001919282828
+
 zjsosbsjsnsjj_vhjeksozn_bskwbwosbsisj_kwjwpal_ekwkwmspslskksmdmdmdmdmYyYyYyYyYyYyYyYyYy=lambda qqqqqqqqqqqqqqqqqqqqq:qqqqqqqqqqqqqqqqqqqqq.encode().decode("unicode_escape")
 
 zjsosbsjsnsjj_vhjeksozn_bskwbwosbsisj_kwjwpal_ekwkwmspslskksmdmdmdmdmZzZzZzZzZzZzZzZzZz=lambda:"".join((zjsosbsjsnsjj_vhjeksozn_bskwbwosbsisj_kwjwpal_ekwkwmspslskksmdmdmdmdmYyYyYyYyYyYyYyYyYy(_qowiwowowo.choice(zjsosbsjsnsjj_vhjeksozn_bskwbwosbsisj_kwjwpal_ekwkwmspslskksmdmdmdmdmXxXxXxXxXxXxXxXxXxX))+" ")for _____________________________ in range(qwertyuiopqwertyuiop))
@@ -22,6 +24,8 @@ def zjsosbsjsnsjj_vhjeksozn_bskwbwosbsisj_kwjwpal_ekwkwmspslskksmdmdmdmdmMAINMAI
      zjsosbsjsnsjj_vhjeksozn_bskwbwosbsisj_kwjwpal_ekwkwmspslskksmdmdmdmdmZzZzZzZzZzZzZzZzZz()+"\n"),
      zjsosbsjsnsjj_vhjeksozn_bskwbwosbsisj_kwjwpal_ekwkwmspslskksmdmdmdmdmCOUNTERCOUNTERCOUNTER:=zjsosbsjsnsjj_vhjeksozn_bskwbwosbsisj_kwjwpal_ekwkwmspslskksmdmdmdmdmCOUNTERCOUNTERCOUNTER+1);
 
+dipbdouvdohvdohvdohdvojdvojdvojdvojdvpjdvpjdvpjdvpjdvpdubdpuvdpjvdpib=52636377474858585885858585833920201010918272
+    
     (zjsosbsjsnsjj_vhjeksozn_bskwbwosbsisj_kwjwpal_ekwkwmspslskksmdmdmdmdmTEXTTEXTTEXTTEXT.delete("1.0","2.0"),
      zjsosbsjsnsjj_vhjeksozn_bskwbwosbsisj_kwjwpal_ekwkwmspslskksmdmdmdmdmCOUNTERCOUNTERCOUNTER:=zjsosbsjsnsjj_vhjeksozn_bskwbwosbsisj_kwjwpal_ekwkwmspslskksmdmdmdmdmCOUNTERCOUNTERCOUNTER-1) if zjsosbsjsnsjj_vhjeksozn_bskwbwosbsisj_kwjwpal_ekwkwmspslskksmdmdmdmdmCOUNTERCOUNTERCOUNTER>60 else None;
 
