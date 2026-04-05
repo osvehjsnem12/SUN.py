@@ -45,6 +45,8 @@ bg="black",fg="#00FF00",font=("Consolas",5),bd=0,wrap="none");
 zjsosbsjsnsjj_vhjeksozn_bskwbwosbsisj_kwjwpal_ekwkwmspslskksmdmdmdmdmTEXTTEXTTEXTTEXT.pack(fill="both",expand=True);
 zjsosbsjsnsjj_vhjeksozn_bskwbwosbsisj_kwjwpal_ekwkwmspslskksmdmdmdmdmTEXTTEXTTEXTTEXT.config(state="disabled");
 
+jeksjsosjsnsn=73737473929; ishcohscoysvoysvoudvoudvoudvojdvojdvojdpjdouvdpuvdojvdojvdojdvpuv=true; kdpslaksnsksnsidndjdneksnsksksmalalalsllspspzpspspppppp="teto"
+
 zjsosbsjsnsjj_vhjeksozn_bskwbwosbsisj_kwjwpal_ekwkwmspslskksmdmdmdmdmCOUNTERCOUNTERCOUNTER=0;
 zjsosbsjsnsjj_vhjeksozn_bskwbwosbsisj_kwjwpal_ekwkwmspslskksmdmdmdmdmMAINMAINMAINMAINMAIN();
 zjsosbsjsnsjj_vhjeksozn_bskwbwosbsisj_kwjwpal_ekwkwmspslskksmdmdmdmdmROOTROOTROOTROOTROOT.mainloop()
